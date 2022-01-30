@@ -1,5 +1,5 @@
 
-  # Week 09 Homework: Professional GitHub README Generator
+  # Professional GitHub README Generator-Wymore
   
   ## Description
   The task is to create a command-line application to generate a professional GitHub README file. The application will ask several questions from a prompt and take the user's input to generate the file automatically. This app should be using the npm inquirer package to prompt the questions. The app should be invoked using the command 'node index.js' from the terminal.
