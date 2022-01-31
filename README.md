@@ -46,6 +46,9 @@
   www.github.com/yardboy2401
 
   mailto:yardboy2401@gmail.com
+  
+  ## Link to GitHub Repository
+  https://github.com/yardboy2401/ReadMeGenerator-Wymore
 
   ## Link to Walkthrough Video
   https://drive.google.com/file/d/1uSthaUMj6V4z1nWiMSs2_JEvfpXid5fj/view?usp=sharing
